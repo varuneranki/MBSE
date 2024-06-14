@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T11:15:11.559Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mEP_UWWfeC86A-I2gvWR" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T11:26:46.575Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ODwgFl_WT9oJpfK50KuW" version="24.5.4" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="1434" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b87rpcidDxEJQfmS-h4E-7" value="Foriegn Object Detection System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b87rpcidDxEJQfmS-h4E-7" value="Foriegn Object Detection System" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#003366;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="360" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b87rpcidDxEJQfmS-h4E-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="b87rpcidDxEJQfmS-h4E-7">
@@ -48,13 +48,13 @@
         <mxCell id="b87rpcidDxEJQfmS-h4E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b87rpcidDxEJQfmS-h4E-11" target="b87rpcidDxEJQfmS-h4E-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b87rpcidDxEJQfmS-h4E-11" value="Obstacle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b87rpcidDxEJQfmS-h4E-11" value="Obstacle" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#663300;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="870" y="295" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b87rpcidDxEJQfmS-h4E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="b87rpcidDxEJQfmS-h4E-15" target="b87rpcidDxEJQfmS-h4E-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b87rpcidDxEJQfmS-h4E-15" value="GPS&lt;div&gt;System&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b87rpcidDxEJQfmS-h4E-15" value="GPS&lt;div&gt;System&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="820" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b87rpcidDxEJQfmS-h4E-20" value="FOD&lt;span style=&quot;background-color: initial;&quot;&gt;S&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Server&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#000000;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -78,7 +78,7 @@
         <mxCell id="b87rpcidDxEJQfmS-h4E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="b87rpcidDxEJQfmS-h4E-2" target="b87rpcidDxEJQfmS-h4E-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b87rpcidDxEJQfmS-h4E-27" value="AI System" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b87rpcidDxEJQfmS-h4E-27" value="AI System" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="110" y="85" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b87rpcidDxEJQfmS-h4E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="b87rpcidDxEJQfmS-h4E-22" target="b87rpcidDxEJQfmS-h4E-27">
