@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T16:13:34.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.5" etag="TZdGrmdlinjZSL8AM5gm" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T16:38:17.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2Mq8DlqhYAPk0LLL_FSE" version="24.5.5" type="github">
   <diagram name="Page-1" id="Bjq-4Xog283i7l6XjD24">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jraAryEVt38YCIXWE9Sy-5" value="FODS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-6" value="Pilot and Crews" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-7" value="Air traffic control(ATC)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-10" value="Aircraft Movement" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-11" value="Taxi Movement" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-12" value="Ground Handling and Maintanence Crew" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-13" value="Infastructure and Obstacles" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-14" value="Airport Safety and Security team" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="260" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-15" value="Passenger" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-16" value="Obstacles" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jraAryEVt38YCIXWE9Sy-18" value="Weather Condition" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
