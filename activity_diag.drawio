@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T19:07:39.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YgxIztFXIyem7jYF5cej" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T19:08:15.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Oy_TJB7BgNtqidzJddNq" version="24.5.5" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="700" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,6 +101,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="720" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yVpGU99Wx18fHOG96q4R-32" value="Add 3 stakeholders, according to priority, and include GPS data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="690" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
