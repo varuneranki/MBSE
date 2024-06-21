@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T16:53:44.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="oi9Sx-Ugt0VFHYbJKRbZ" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T17:26:21.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Er8PmT-NmkAvovmkQ3c9" version="24.5.5" type="github">
   <diagram name="Page-1" id="-NQbxoQmgcWisK0Jk0nO">
     <mxGraphModel dx="1955" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="7_kgMcMWeAaX5q2QRZLr-7" value="&lt;span style=&quot;&quot;&gt;Foriegn Object&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Detection System&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7_kgMcMWeAaX5q2QRZLr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7_kgMcMWeAaX5q2QRZLr-8" target="7_kgMcMWeAaX5q2QRZLr-1">
+        <mxCell id="7_kgMcMWeAaX5q2QRZLr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="7_kgMcMWeAaX5q2QRZLr-8" target="7_kgMcMWeAaX5q2QRZLr-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2" y="420" />
